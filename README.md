@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 <!-- 1. ANIMATED TYPING HEADER -->
-# <img src="https://herokuapp.com!" alt="Typing SVG" />
+
 
 ---
 
