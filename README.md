@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Shashank Patel 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Backend+Developer;React+Developer;Java+%7C+JavaScript+%7C+SQL+%7C+React;MySQL+%7C+MongoDB" />
+  <img src="https://readme-typing-svg.herokuapp.com/demo/?center=true&vCenter=true&lines=Full+Stack+Developer;Backend+Developer;React+Developer;Java+%7C+JavaScript+%7C+SQL+%7C+React;MySQL+%7C+MongoDB" />
 </p>
 
 ---
