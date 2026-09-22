@@ -65,11 +65,13 @@ I thrive in collaborative environments, lead with responsibility, and stay curio
 ### 🚀 Projects
 
 #### 🧠 Chatbot Ai  
-Full-stack AI-powered MERN application.  
+Architected an LLM-powered conversational AI chatbot using React.js, Vite, and Tailwind CSS with a responsive and
+interactive chat interface.
 🔗 [Live Demo](https://ai-chatbot-kohl-six-88.vercel.app/)
 
 #### 💸 CodeLens  
-Built a Ai-Powered code review platform using React.js, Tailwind CSS, Java 25, and Spring Boot. 
+Built a Ai-Powered code review platform using React.js, Tailwind CSS, Java 25, and Spring Boot.
+
 📌 React | Spring Boot | MySQL | JavaScript | Tailwind CSS
 
 ---
